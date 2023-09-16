@@ -10,10 +10,10 @@ de saber as nossas diferenças e semelhanças.
 
 
 <a href="https://github.com/RafaelLima07/github-readme-stats">
-  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelLima07&show_icons=true&theme=gruvbox" />
+  <img height=150em align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelLima07&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/RafaelLima07/convoychat">
-  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelLima07&show_icons=true&theme=gruvbox&layout=compact&langs_count=8&card_width=200" />
+  <img height=150em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelLima07&show_icons=true&theme=gruvbox&layout=compact&langs_count=8&card_width=200" />
 </a>
 
 ##
