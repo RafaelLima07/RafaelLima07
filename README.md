@@ -3,7 +3,7 @@
 - 💻 Atualmente estudo programção no Instituto PROA. No momento aprendi
 HTML5, CSS3 e Lógica da Programação com JavaScript.
 
-- 💬 Caso queira me conhecer, me pergunte sobre, a minha singularidade. Gosto
+- 💬 Caso queria me conhecer me pergunte sobre a minha singularidade. Gosto
 de saber as nossas diferenças e semelhanças.
 
 ##
