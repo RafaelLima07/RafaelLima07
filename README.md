@@ -1,7 +1,6 @@
 ## Olá, eu sou Rafael Lima👋
 
-- 💻 Atualmente estudo programção no Instituto PROA. No momento aprendi
-HTML5, CSS3 e Lógica da Programação com JavaScript.
+- 💻 Sou formado no Instituto PROA. Desenvolvi conhecimento em Interfaces, HTML e CSS, Lógica de Programação com JavaScript, React-JS, MySQL e Java
 
 - 💬 Se quiser me conhecer, me pergunte sobre a minha singularidade. Gosto
 de saber as nossas diferenças e semelhanças.
