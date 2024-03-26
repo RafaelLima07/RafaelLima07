@@ -2,9 +2,6 @@
 
 - 💻 Sou formado no Instituto PROA. Desenvolvi conhecimento em Interfaces, HTML e CSS, Lógica de Programação com JavaScript, React-JS, MySQL e Java
 
-- 💬 Se quiser me conhecer, me pergunte sobre a minha singularidade. Gosto
-de saber as nossas diferenças e semelhanças.
-
 ##
 
 
