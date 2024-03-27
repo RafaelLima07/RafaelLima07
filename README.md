@@ -1,6 +1,6 @@
 ## Olá, eu sou Rafael Lima👋
 
-- 💻 Sou formado no Instituto PROA. Desenvolvi conhecimento em Interfaces, HTML e CSS, Lógica de Programação com JavaScript, React-JS, MySQL e Java
+- 💻 Sou formado no Instituto PROA. Tenho conhecimento em Interfaces, HTML e CSS, Lógica de Programação com JavaScript, React-JS, MySQL e Java
 
 ##
 
